@@ -2,7 +2,7 @@
 <h3 align="center">Student @ <a href="https://pict.edu/#"> Pune Institute of Computer Technology</a> </h3>
 <h3 align="center">Full Stack Web Developer , Android developer and  Machine Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on **StressFree - Stress and Sentiment Analysis Web App**
+- 🔭 I’m currently working on **Devconnector - Socio-academic website for developers**
 - 🌱 I’m currently learning **Natural Language Processing**
 - 💬 Ask me about **React: JavaScript : Bootstrap**
 - 📫 Reach me at **gauravshinde1816@gmail.com**
