@@ -2,11 +2,6 @@
 <h3 align="center">Student @ <a href="https://pict.edu/#"> Pune Institute of Computer Technology</a> </h3>
 <h3 align="center">Full Stack Web Developer , Android developer and  Machine Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on **Devconnector - Socio-academic website for developers**
-- 🌱 I’m currently learning **Natural Language Processing**
-- 💬 Ask me about **React: JavaScript : Bootstrap**
-- 📫 Reach me at **gauravshinde1816@gmail.com**
-
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=daigavane70&label=Profile%20views&color=0e75b6&style=flat" alt="daigavane70" /> </p> -->
 
 <h3 align="left">Languages and Tools:</h3>
